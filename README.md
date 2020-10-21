@@ -1,4 +1,4 @@
-### Link Start !
+### Link Start ! 🔌 🔌 🔌
 
 ![Ericwyn's github stats](https://github-readme-stats.vercel.app/api?username=ericwyn&show_icons=true&theme=radical)
 
