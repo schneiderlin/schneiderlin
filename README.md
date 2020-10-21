@@ -1,4 +1,7 @@
-### Hi there 👋
+### Link Start !
+
+![Ericwyn's github stats](https://github-readme-stats.vercel.app/api?username=ericwyn&show_icons=true&theme=radical)
+
 
 <!--
 **Ericwyn/Ericwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
