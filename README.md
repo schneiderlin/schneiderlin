@@ -1,6 +1,11 @@
 ### Link Start ! 🔌 🔌 🔌
 
-![Ericwyn's github stats](https://github-readme-stats.vercel.app/api?username=ericwyn&show_icons=true&theme=radical)
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ericwyn&count_private=true&show_icons=true" />
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwyn&hide=HTML,css,javascript" />
+</span>
 
 
 <!--
