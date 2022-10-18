@@ -1,1 +1,1 @@
-https://github.com/schneiderlin/schneiderlin/blob/master/github-metrics.svg
+[<img align="left" width="400" src="schneiderlin/github-metrics.svg at master · schneiderlin/schneiderlin">](GitHub - schneiderlin/schneiderlin)
