@@ -1,1 +1,1 @@
-[<img align="left" width="400" src="schneiderlin/github-metrics.svg at master · schneiderlin/schneiderlin">](GitHub - schneiderlin/schneiderlin)
+[<img align="left" width="400" src="https://github.com/schneiderlin/schneiderlin/blob/master/github-metrics.svg">](https://github.com/schneiderlin/schneiderlin)
